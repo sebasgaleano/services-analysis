@@ -92,5 +92,8 @@ streamlit run main.py
 - Advanced spatial statistics
 - Deployment as a public dashboard
 
+## Run Online
+https://services-analysis-aldo-galeano.streamlit.app/ 
+
 ## License
 MIT License
