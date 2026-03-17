@@ -5,8 +5,7 @@ cache/
 build/
 dist/
 wheels/
-*.egg-info
-data/*.geojson
+*.egg-info/
 notebooks/cache/
 .python-version 
 uv.lock
