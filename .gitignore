@@ -10,6 +10,7 @@ data/*.geojson
 notebooks/cache/
 .python-version 
 uv.lock
+anotaciones.md
 
 
 # Virtual environments
